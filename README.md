@@ -1,4 +1,4 @@
-# 🧬 Multi-Omics Analysis Pipeline
+# Multi-Omics Analysis Pipeline
 
 > **Reproducible, open-source pipelines for transcriptomics, proteomics, methylation analysis, and AI/ML-driven omics integration**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This repository implements four end-to-end omics analysis modules, each independently reproducible and production-ready:
 
@@ -21,7 +21,7 @@ This repository implements four end-to-end omics analysis modules, each independ
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 bioinformatics_project/
@@ -44,7 +44,7 @@ bioinformatics_project/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Clone and Set Up Environment
 ```bash
@@ -134,10 +134,10 @@ python 04_ml_omics/multiomics_ml_pipeline.py
 ## 📈 Expected Outputs
 
 Each module generates:
-- ✅ Filtered & normalised data matrices
-- ✅ Statistically tested results tables (CSV)
-- ✅ Publication-quality figures (PNG/PDF)
-- ✅ Summary statistics in console output
+- Filtered & normalised data matrices
+- Statistically tested results tables (CSV)
+- Publication-quality figures (PNG/PDF)
+- Summary statistics in console output
 
 ---
 
@@ -169,8 +169,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙋 Author
+##  Author
 
-**Your Name** — Bioinformatics Graduate  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com/YOUR_USERNAME)
+Lokaveenasri — Biotechnology Graduate 
+📧 dlokaveenasri@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/lokaveenasri-d-5884b1281/) | [GitHub](https://github.com/lokaaaaaaa)
