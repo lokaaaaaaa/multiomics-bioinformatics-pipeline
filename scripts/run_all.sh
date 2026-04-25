@@ -25,7 +25,7 @@ python 04_ml_omics/multiomics_ml_pipeline.py
 
 echo ""
 echo "================================================================"
-echo "  ✅ ALL PIPELINES COMPLETE"
+echo "  ALL PIPELINES COMPLETE"
 echo "  Results  → results/"
 echo "  Figures  → plots/"
 echo "================================================================"
