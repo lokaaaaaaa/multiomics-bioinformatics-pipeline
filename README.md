@@ -64,7 +64,7 @@ Or run each module individually (see below).
 
 ---
 
-## 🔬 Module Details
+## Module Details
 
 ### Module 1 — RNA-seq Pipeline
 ```bash
@@ -104,7 +104,7 @@ python 04_ml_omics/multiomics_ml_pipeline.py
 
 ---
 
-## 📊 Methods Summary
+## Methods Summary
 
 ### Transcriptomics
 - Read trimming: **Trimmomatic** (adapter removal, quality filtering)
@@ -131,7 +131,7 @@ python 04_ml_omics/multiomics_ml_pipeline.py
 
 ---
 
-## 📈 Expected Outputs
+## Expected Outputs
 
 Each module generates:
 - Filtered & normalised data matrices
@@ -141,7 +141,7 @@ Each module generates:
 
 ---
 
-## 🔧 Data Requirements
+## Data Requirements
 
 | Module | Required Input | Default |
 |--------|----------------|---------|
@@ -153,7 +153,7 @@ Each module generates:
 
 ---
 
-## 📖 References
+## References
 
 - Love MI et al. (2014) DESeq2. *Genome Biology*
 - Aryee MJ et al. (2014) minfi. *Bioinformatics*
@@ -163,7 +163,7 @@ Each module generates:
 
 ---
 
-## 📄 License
+## License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
